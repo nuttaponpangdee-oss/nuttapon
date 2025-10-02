@@ -1,0 +1,5 @@
+{
+  "name": "Thai K-Factor Calculator",
+  "description": "An easy-to-use application to calculate Thai construction cost escalation factors (K1-K5) with clear explanations for each formula and AI-powered result interpretation.",
+  "requestFramePermissions": []
+}
